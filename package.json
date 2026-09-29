@@ -27,16 +27,16 @@
     "secrets:list": "node manage-secrets.js list"
   },
   "dependencies": {
-    "hono": "^4.9.2",
+    "hono": "^4.13.5",
     "open": "^8.4.2",
     "qrcode-terminal": "^0.12.0",
-    "toml": "^3.0.0"
+    "toml": "^4.2.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20250816.0",
     "@types/node": "^24.3.0",
     "eslint": "^9.33.0",
     "typescript": "^5.4.5",
-    "wrangler": "^4.30.0"
+    "wrangler": "^4.144.0"
   }
 }
